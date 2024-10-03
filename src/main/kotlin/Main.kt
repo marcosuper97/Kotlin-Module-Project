@@ -1,3 +1,4 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+val general: General = General()
+    general.start()
 }
